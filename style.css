@@ -1,0 +1,70 @@
+h1 {
+    color: white;
+}
+
+.header{
+        
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid white;
+    border-radius: 00px
+   
+}
+
+body{
+    color: white;
+    background-image: url("https://i.pinimg.com/originals/f8/14/cd/f814cd9030f0ab158438122256745aab.jpg");
+    
+    background-size: cover;
+    border: 2px solid white;
+    border-radius: 100px
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+    border: 2px solid white;
+    border-radius: 0px
+}
+.camel{
+    display: flex;
+    justify-content: flex-end;
+    border: 2px solid white;
+    border-radius: 0px
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+   
+    
+}
+.pigeon{
+    display: flex;
+    justify-content: flex-end;
+    border: 2px solid white;
+    border-radius: 50px
+}
+.elephant{
+    position:relative;
+    right : 23%;
+    display: flex;
+    justify-content: flex-end;
+    border: 2px solid white;
+    border-radius: 50px
+}
+.camel{
+    position:relative;
+    right : 0%;
+    display: flex;
+    justify-content: flex-end;
+    border: 2px solid white;
+    border-radius: 50px
+}
+.elephanttt{
+    position:relative;
+    right : 10%;
+}
+.camell{
+    position:relative;
+    right : 3%;
+}
